@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Daniel. Nice to Meet You! <a href="Hand-Wave-Gif"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width:10%;"></a>
 
-<!--
-**Tanscend/Tanscend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm a soon-to-be Computer Science graduate who loves creating through programming.
+- I love tinkering and experimenting with both new and old technologies, whether it be software or hardware.
+- I love listening to music, particularly from the 70s.
 
-Here are some ideas to get you started:
+### Technical Skills
+- I consider myself proficient in the following:
+	- Programming
+		Java, Python, C/C++, C#, SQL, GDScript, Kotlin (Android).
+	- Web Dev
+		HTML, CSS, JavaScript, .NET, Django and Chrome Extensions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Try raising an "issue" in one of my repos if you would like to contact me, thanks for stopping by.
