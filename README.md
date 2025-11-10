@@ -7,9 +7,9 @@
 
 ### Technical Skills
 - I consider myself proficient in the following:
-	- Programming
+	- Programming:
 		Java, Python, C/C++, C#, SQL, GDScript, Kotlin (Android).
-	- Web Dev
+	- Web Dev:
 		HTML, CSS, JavaScript, .NET, Django and Chrome Extensions.
 
 
