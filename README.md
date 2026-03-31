@@ -1,7 +1,7 @@
 # Hey, I'm Daniel. Nice to Meet You! <a href="Hand-Wave-Gif"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width:10%;"></a>
 
 ## About Me
-- I'm a soon-to-be Computer Science graduate who loves creating through programming.
+- I'm a recent Computer Science graduate who loves creating through programming.
 - I love tinkering and experimenting with both new and old technologies, whether it be software or hardware.
 - I love listening to music, particularly from the 70s.
 
